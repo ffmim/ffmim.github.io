@@ -1,6 +1,6 @@
----
-title: "TIOBE Index for February 2024"
----
+# TIOBE Index for Programming Languages
+
+## Top Programming Languages: February 2024
 
 
 ### Python
@@ -44,7 +44,7 @@ Java is a high-level, class-based, object-oriented programming language that is 
 
 **Rating:** 7.53%
 
-C, or c, is the third letter in the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide. Its name in English is cee. Cees is the plural form for this letter.
+C# is a general-purpose high-level programming language supporting multiple paradigms. C# encompasses static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines.
 
 [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))
 
@@ -107,7 +107,7 @@ Fortran is a third generation, compiled, imperative programming language that is
 
 **Rating:** 1.40%
 
-Summary not available
+Pascal is an imperative and procedural programming language, designed by Niklaus Wirth as a small, efficient language intended to encourage good programming practices using structured programming and data structuring. It is named after French mathematician, philosopher and physicist Blaise Pascal.
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pascal_(programming_language))
 
@@ -116,7 +116,7 @@ Summary not available
 
 **Rating:** 1.26%
 
-Summary not available
+MATLAB is a proprietary multi-paradigm programming language and numeric computing environment developed by MathWorks. MATLAB allows matrix manipulations, plotting of functions and data, implementation of algorithms, creation of user interfaces, and interfacing with programs written in other languages.
 
 [Wikipedia](https://en.wikipedia.org/wiki/MATLAB)
 
@@ -125,7 +125,7 @@ Summary not available
 
 **Rating:** 1.19%
 
-Summary not available
+In computer programming, assembly language, often referred to simply as assembly and commonly abbreviated as ASM or asm, is any low-level programming language with a very strong correspondence between the instructions in the language and the architecture's machine code instructions. Assembly language usually has one statement per machine instruction (1:1), but constants, comments, assembler directives, symbolic labels of, e.g., memory locations, registers, and macros are generally also supported.
 
 [Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
 
