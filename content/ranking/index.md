@@ -1,7 +1,4 @@
-# TIOBE Index for Programming Languages
-
-## Top Programming Languages: February 2024
-
+# TIOBE Index for February 2024
 
 ### Python
 ![Python](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Python.png)
