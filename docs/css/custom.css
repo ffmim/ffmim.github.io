@@ -1,0 +1,14 @@
+.my-custom-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.my-custom-table th, .my-custom-table td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.my-custom-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}

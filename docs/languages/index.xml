@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Languages on My New Hugo Site</title>
+    <link>http://localhost:1313/languages/</link>
+    <description>Recent content in Languages on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/languages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/languages/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/languages/python/</guid>
+      <description>&#xA;Rating: 15.63%&#xA;Summary Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.&#xA;Links: https://www.python.org/ https://en.wikipedia.org/wiki/Python_(programming_language) https://www.python.org/about/gettingstarted/ </description>
+    </item>
+  </channel>
+</rss>
